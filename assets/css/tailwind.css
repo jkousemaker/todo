@@ -41,7 +41,7 @@
     @apply w-full px-5;
   }
 
-  .clipped-gradient > span {
-    @apply to-twaccent-purple from-twprimary bg-gradient-to-r bg-clip-text text-transparent;
+  .clipped-gradient > .clip {
+    @apply bg-gradient-to-r from-twprimary to-twaccent-purple bg-clip-text text-transparent;
   }
 }
