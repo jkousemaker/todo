@@ -38,8 +38,8 @@
         </MazBtn>
       </div>
       <h1 class="clipped-gradient flex flex-col gap-2 font-extrabold">
-        <span class="clip text-5xl">Gabryella</span>
-        <span>Silva</span>
+        <span class="clip">Gabryella</span>
+        <span class="text-3xl !text-white">Silva</span>
       </h1>
       <div class="flex flex-row flex-nowrap">
         <MazRadioButtons
